@@ -1,1 +1,1 @@
-![бренд борд](Brand Board.png)
+![бренд борд](Brand_Board.png)
